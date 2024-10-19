@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Gym",
+        "image": "https://i.ibb.co.com/vHJwKyV/Gym-Express.png",
+        "timeSpan": "May 2024 - June 2024",
+        "skillRequired": [
+            "JavaScript",
+            "React",
+            "Firebase",
+            "NodeJs",
+            "MongoDB",
+            "Stripe"
+        ],
+        "description": "Gym is a dynamic platform designed to help users discover and book the best gym classes led by their favorite trainers.",
+        "liveLink": "https://assignment-12-b1523.web.app"
+    },
+    {
+        "name": "FlySphere",
+        "image": "https://i.ibb.co.com/y0sbHv2/Fly-Sphere.png",
+        "timeSpan": "March 2024 - April 2023",
+        "skillRequired": [
+            "NodeJs",
+            "MongoDB",
+            "ExpressJs",
+            "JavaScript",
+            "React",
+            "Firebase"
+        ],
+        "description": "FlySphere is a flight booking platform with secure Stripe payments, allowing users to search, book flights, and easily download tickets.",
+        "liveLink": "https://gozayaan-c8b57.web.app"
+    },
+    {
+        "name": "Touristica",
+        "image": "https://i.ibb.co/Y780j0x/Touristica.png",
+        "timeSpan": "May 2024 - June 2024",
+        "skillRequired": [
+            "HTML",
+            "CSS",
+            "TailwindCSS",
+            "JavaScript",
+            "React",
+            "Firebase"
+        ],
+        "description": "Touristica is a travel site where users discover and share tourist spots, with easy navigation to home, spots, countries, blog, and contact pages.",
+        "liveLink": "https://assignment-10-474ad.web.app"
+    }
+]
