@@ -12,7 +12,8 @@
             "Stripe"
         ],
         "description": "Gym is a dynamic platform designed to help users discover and book the best gym classes led by their favorite trainers.",
-        "liveLink": "https://assignment-12-b1523.web.app"
+        "liveLink": "https://assignment-12-b1523.web.app",
+        "githubLink": "https://github.com/Sha-hed/GymExpress-Client"
     },
     {
         "name": "FlySphere",
@@ -27,7 +28,8 @@
             "Firebase"
         ],
         "description": "FlySphere is a flight booking platform with secure Stripe payments, allowing users to search, book flights, and easily download tickets.",
-        "liveLink": "https://gozayaan-c8b57.web.app"
+        "liveLink": "https://gozayaan-c8b57.web.app",
+        "githubLink": "https://github.com/Sha-hed/FlySphere-Client"
     },
     {
         "name": "Touristica",
@@ -42,6 +44,7 @@
             "Firebase"
         ],
         "description": "Touristica is a travel site where users discover and share tourist spots, with easy navigation to home, spots, countries, blog, and contact pages.",
-        "liveLink": "https://assignment-10-474ad.web.app"
+        "liveLink": "https://assignment-10-474ad.web.app",
+        "githubLink": "https://github.com/Sha-hed/Touristica-ClientSide"
     }
 ]
